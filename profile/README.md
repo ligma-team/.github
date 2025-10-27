@@ -1,5 +1,5 @@
 <h1 align="center">ligma balls</h1>
-<h3 align="center">we don't use arch btw</h3>
+<h3 align="center">we use arch btw</h3>
 
 <h3 align="left">connect with us btw</h3>
 <p align="left">
