@@ -26,7 +26,7 @@
 
 <hr>
 
-<h3 align="left">contact us lol:</h3>
+<h3 align="left">contact us btw:</h3>
 <p align="left">
   annoy the owner: <a href="tel:+77082638725">+77082638725</a><br>
   bye bye storage: <a href="mailto:neco@ligmateam.xyz">neco@ligmateam.xyz</a>
